@@ -1,6 +1,6 @@
 
 下記がfigmaのurlになります。
-https://www.figma.com/design/O15Uwk2YWryXbwyQ4MmKrw/%E7%84%A1%E9%A1%8C?node-id=0-1&t=D68Ggn4D9HJL2BrG-1
+https://www.figma.com/design/O15Uwk2YWryXbwyQ4MmKrw/%E7%84%A1%E9%A1%8C?node-id=0-1&p=f&t=A7VjXyvrRHxNyoHO-0
 
 ### READMEに記載した機能
 - [ ] ユーザー登録機能
