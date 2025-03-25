@@ -1,6 +1,6 @@
 
 下記がfigmaのurlになります。
-https://www.figma.com/design/O15Uwk2YWryXbwyQ4MmKrw/%E7%84%A1%E9%A1%8C?node-id=0-1&p=f&t=ZQtt4H1KNldMyKYA-0
+https://www.figma.com/design/O15Uwk2YWryXbwyQ4MmKrw/%E7%84%A1%E9%A1%8C?node-id=0-1&p=f&t=TJrgqTzR9tzbkzpn-0
 
 ### READMEに記載した機能
 - [ ] ユーザー登録機能
@@ -21,5 +21,6 @@ https://www.figma.com/design/O15Uwk2YWryXbwyQ4MmKrw/%E7%84%A1%E9%A1%8C?node-id=0
 
 ### 各画面の作り込み
 - [ ] 各画面に必要なボタンや入力フォームが正しく配置されている
+
 
 
